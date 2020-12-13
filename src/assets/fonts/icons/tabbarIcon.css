@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("../tabbar/iconfont.eot?t=1606894946510"); /* IE9 */
+  src: url("../tabbar/iconfont.eot?t=1606894946510#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAASQAAsAAAAACkwAAARCAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDIgqHcIZtATYCJAMUCwwABCAFhG0HUhvzCMgekhQlIR44AFAAAEARfH/vu+e2X6kkQKHMF0gbz3grFMz4BUsogJ1jFO8C7+d1rpcmhTQpIUVC8Y+Yl3PBPCmhHsKJtic6YbKdo3Y6qU+yqc00QADQ7JM11QWSFQ4vvqk3T3QFggGzJhBqQgGwnpuRm9Fyi3gGF6ot++Ccfp0ApgLEwg5WbdgBJII5L4C4FfW1QBYCiA5zIN1ODbcWwB6gItNpxUMA9/L38Q/JkQCJMoN50+HNygbQffl8CMDtS3ZH2Q79cDGM7gIZWAMFxEVj4gi+qV/DUQtnQiLQEH0VX34fApaWOCQlAS5TpvAfngKOANHAyHPEHfYVD4vxPsGKL5KchC8/9MmsBCD7gcg1umUKbII4BYgnMLgl1ydKBHquDmcD1SpWo0Yde+z+V692vny54/XrojdvEjJPoFCMn9l/9ro30B+v/BUDL1MpsA9fm6fUt18HY9Rs+Ax+7k0GjTluRvDq85dBvxLmcnYIwxyD5czcpFWQHYeO3bxKu5xduD4CZmD0xX8uXNd5xX6Zos4MOoa8MPUZD3AJB7d/5hkQ/WkqM/scq44XGSamo8ODsHd6unZ3eykdXVzJ2R3U6pV08c4TOu+ZpdrWRWc7Qe8Yi12XtpndNF1czrpdeyA8Zpr49YsIwvSQxBFZi+xe/OFDHIVeJpHnr0LsPQO6/UPpX4UFCStd8wv/sLQXxbZqdWxhIUbXPTsfrYD8/WVRwN5n5s+6LT84O/e2RsdJ9IeoK/V/4LHC8/pWJk27zaHaVpbSptHcA8/lXEOv9081vhommone+HSwi/QKHkSkDZIfgzQhgyEaVCRn7Swosi44j6gGbSXQcXcTo/HTMBi7OXhr54DLrUMsLVxhQPm1kHXRkakdqqsqT9VDcpN8KImrqqGidK1KYuyB6s0zmXKtayX5QFt6QL52boXcXvC9F3oSvhFu7BWHCDfpZfYADK/wdzwGgPyIc0V1Z5sSGPADj+5OVLvm/idnv962z+9CnRSGV4TdG8YUQM38VxnljLLkTLCW+WhPzxur8zD7fs8BUxQwgMksvDsMbqg7E0ieGSTO/CEjhaqKLhYqWio0pAKYirH67hl3EhxWVAC2HQfAsMZAgXETcKxHKkL3FpQ438EJGw6UonB/JC08kVou8bUy34Dq9iKx3mIWXFimkq7beH2LsVbKc2Ip4qVmsYyS4hPLTat5My8d4ormXfpkWRaQIFlMaBW8jTcaLcgqWZr4ejm+UZat2QkJQtM3xddbTEBZTsKrJeM1QOrshYjqWZgJ0eoyqvL72/D0WhjVkjrGXLgW4UmaiQdHksRLVKhWy2bVmJfSu9kueslkqgkQYdTZwgRZRTGe0dZbINbmk5rw6sniNe5Qs8qWQHMJWjn+9Gh6j/fBlHlEDQWGYwSmxJxAfVVr3tPiVQavXpmr7hXNzg0o6uuizk1iEKzoBwAAAA==")
+      format("woff2"),
+    url("../tabbar/iconfont.woff?t=1606894946510") format("woff"),
+    url("../tabbar/iconfont.ttf?t=1606894946510") format("truetype"),
+    /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+      url("../tabbar/iconfont.svg?t=1606894946510#iconfont") format("svg"); /* iOS 4.1- */
+}
+
+.icon-danxuankuang:before {
+  content: "\e61a";
+}
+
+.icon-dayin:before {
+  content: "\e61b";
+}
+
+.icon-dingdan:before {
+  content: "\e61c";
+}
+
+.icon-jianpan:before {
+  content: "\e61e";
+  width: 30px;
+}

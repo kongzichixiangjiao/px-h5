@@ -29,7 +29,7 @@
 
 <script>
 import { Tabbar, TabbarItem } from "vant";
-import("./assets/fonts/icons/tabbarIcon.css");
+
 export default {
   name: "App",
   components: {
@@ -49,6 +49,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "./assets/fonts/icons/tabbarIcon.css";
+@import "./assets/fonts/icons/navBarIcon.css";
 #app {
   position: fixed;
   top: 0;
